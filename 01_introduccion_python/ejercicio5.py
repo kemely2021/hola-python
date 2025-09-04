@@ -1,2 +1,3 @@
-# Ejercicio 5
-print("Este es el ejercicio 5")
+# Ejercicio 5: Saludo personalizado
+# - Pide nombre y edad al usuario
+# - Muestra un mensaje personalizado: "Hola [nombre], tienes [edad] años"

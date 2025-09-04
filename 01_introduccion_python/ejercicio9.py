@@ -1,2 +1,3 @@
-# Ejercicio 9
-print("Este es el ejercicio 9")
+# Ejercicio 9: Mayor de tres números
+# - Pide tres números al usuario
+# - Muestra cuál es el mayor
